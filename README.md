@@ -1,6 +1,6 @@
 # Lithium
-Backend cohort Oct 2022 - Jan 2023
+Backend cohort Oct 22 - Jan 23
 
 
 # Assignment
-// Will add this later
+//hi am shubhangi
